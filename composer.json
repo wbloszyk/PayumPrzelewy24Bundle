@@ -1,5 +1,5 @@
 {
-  "name": "softify/payum-przelewy24-bundle",
+  "name": "newsoftify/payum-przelewy24-bundle",
   "description": "Przelewy24 payments bundle for Symfony based on Payum",
   "license": "MIT",
   "type": "symfony-bundle",
